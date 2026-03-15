@@ -1,5 +1,5 @@
-# gilpulayasi-alk.github.io
-Website for Glory Investment Limited
+# brianfarmerwaffifoundation.github.io
+Website for Brian Farmer Waffi Foundation
 
 
 .
